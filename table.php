@@ -25,5 +25,7 @@
 				<td><?php echo $titre;?></td> 
 				<td><?php echo $prix;?></td> 
 			  </tr>
+					    </table>
+	</tbody>
 </body>
 </html>
